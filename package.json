@@ -1,0 +1,41 @@
+{
+    "name": "magie",
+    "displayName": "Magie",
+    "description": "Une série de thèmes simples et jolis.",
+    "version": "0.0.1",
+    "publisher": "Enalye",
+    "license": "Licence disponible ici <license.txt>",
+    "homepage": "https://github.com/enalye/magie-themes",
+    "engines": {
+        "vscode": "^1.72.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Magie Lumineuse",
+                "uiTheme": "vs",
+                "path": "./themes/magie-lumineuse.json"
+            },
+            {
+                "label": "Magie Obscure",
+                "uiTheme": "vs-dark",
+                "path": "./themes/magie-obscure.json"
+            }
+        ]
+    },
+    "keywords": [
+        "enalye",
+        "dark",
+        "light",
+        "clair",
+        "sombre",
+        "theme",
+        "magie",
+        "magia",
+        "grimoire",
+        "vscode"
+    ]
+}
