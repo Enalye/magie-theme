@@ -4,6 +4,11 @@
     "description": "Une série de thèmes simples et jolis.",
     "version": "0.0.1",
     "publisher": "Enalye",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/enalye/magie"
+    },
     "license": "Licence disponible ici <license.txt>",
     "homepage": "https://github.com/enalye/magie-themes",
     "engines": {
@@ -35,6 +40,7 @@
         "theme",
         "magie",
         "magia",
+        "alchimie",
         "grimoire",
         "vscode"
     ]
