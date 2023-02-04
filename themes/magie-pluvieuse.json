@@ -1,17 +1,15 @@
 {
-    "name": "Magie Obscure",
-    "type": "dark",
+    "name": "Magie Pluvieuse",
+    "type": "light",
     "$schema": "vscode://schemas/color-theme",
     "colors": {
-        "editor.background": "#23202b",
-        "editor.foreground": "#ecdff5",
-        "activityBarBadge.background": "#cc008f",
-        "sideBarTitle.foreground": "#bbbbbb",
-        "activityBar.background": "#272233",
-        "tab.inactiveBackground": "#2b2730",
-        "tab.inactiveForeground": "#dbd0bf",
-        "tab.activeBackground": "#2d3844",
-        "tab.activeForeground": "#d1e5e9"
+        "editor.background": "#d0d7d8",
+        "editor.foreground": "#79747a",
+        "list.activeSelectionIconForeground": "#fff",
+        "tab.inactiveBackground": "#d1d3ce",
+        "tab.inactiveForeground": "#2e3622",
+        "tab.activeBackground": "#b2bdbd",
+        "tab.activeForeground": "#4a494b"
     },
     "tokenColors": [
         {
@@ -22,7 +20,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#546E7A"
+                "foreground": "#848299"
             }
         },
         {
@@ -43,7 +41,7 @@
                 "punctuation"
             ],
             "settings": {
-                "foreground": "#b1b5d8"
+                "foreground": "#5b6669"
             }
         },
         {
@@ -54,7 +52,8 @@
                 "storage"
             ],
             "settings": {
-                "foreground": "#73db92"
+                "foreground": "#1b8375",
+                "fontStyle": "bold"
             }
         },
         {
@@ -65,7 +64,8 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#a1a3ff"
+                "foreground": "#8262a7",
+                "fontStyle": "bold"
             }
         },
         {
@@ -76,7 +76,8 @@
                 "variable.language"
             ],
             "settings": {
-                "foreground": "#e7de8e"
+                "foreground": "#927aa7",
+                "fontStyle": "bold"
             }
         },
         {
@@ -85,7 +86,8 @@
                 "variable.other"
             ],
             "settings": {
-                "foreground": "#ffe6c1"
+                "foreground": "#5f8d96",
+                "fontStyle": "italic"
             }
         },
         {
@@ -95,7 +97,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#f1fdfd"
+                "foreground": "#000000"
             }
         },
         {
@@ -104,7 +106,7 @@
                 "variable.parameter.import"
             ],
             "settings": {
-                "foreground": "#ffd597"
+                "foreground": "#70547e"
             }
         },
         {
@@ -117,7 +119,8 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#c3e9be"
+                "foreground": "#5a6372",
+                "fontStyle": "italic"
             }
         },
         {
@@ -129,7 +132,8 @@
                 "support.class"
             ],
             "settings": {
-                "foreground": "#7ed0e9"
+                "foreground": "#4f8d8f",
+                "fontStyle": "bold"
             }
         },
         {
@@ -154,28 +158,28 @@
                 "constant"
             ],
             "settings": {
-                "foreground": "#d39ff5"
+                "foreground": "#3a8d53"
             }
         },
         {
             "name": "Textes",
             "scope": "string",
             "settings": {
-                "foreground": "#ecad90"
+                "foreground": "#679bb9"
             }
         },
         {
             "name": "Textes: Caractères d’Échappement",
             "scope": "constant.character.escape",
             "settings": {
-                "foreground": "#777777"
+                "foreground": "#4f3c96"
             }
         },
         {
             "name": "Textes: Expressions Régulières",
             "scope": "string.regexp",
             "settings": {
-                "foreground": "#4B83CD"
+                "foreground": "#509480"
             }
         }
     ]

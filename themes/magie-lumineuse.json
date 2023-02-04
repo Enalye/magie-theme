@@ -6,9 +6,9 @@
         "editor.background": "#fafafa",
         "editor.foreground": "#333333",
         "list.activeSelectionIconForeground": "#fff",
-        "tab.inactiveBackground": "#8b7d62",
-        "tab.inactiveForeground": "#2c251b",
-        "tab.activeBackground": "#bcdd87",
+        "tab.inactiveBackground": "#d0dada",
+        "tab.inactiveForeground": "#4a494b",
+        "tab.activeBackground": "#d7ecb4",
         "tab.activeForeground": "#2e3622"
     },
     "tokenColors": [

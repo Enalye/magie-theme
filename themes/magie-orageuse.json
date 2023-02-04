@@ -1,17 +1,17 @@
 {
-    "name": "Magie Obscure",
+    "name": "Magie Orageuse",
     "type": "dark",
     "$schema": "vscode://schemas/color-theme",
     "colors": {
-        "editor.background": "#23202b",
-        "editor.foreground": "#ecdff5",
-        "activityBarBadge.background": "#cc008f",
+        "editor.background": "#24202e",
+        "editor.foreground": "#ccd0dd",
+        "activityBarBadge.background": "#05798d",
         "sideBarTitle.foreground": "#bbbbbb",
         "activityBar.background": "#272233",
-        "tab.inactiveBackground": "#2b2730",
-        "tab.inactiveForeground": "#dbd0bf",
-        "tab.activeBackground": "#2d3844",
-        "tab.activeForeground": "#d1e5e9"
+        "tab.inactiveBackground": "#33303d",
+        "tab.inactiveForeground": "#909fa8",
+        "tab.activeBackground": "#333357",
+        "tab.activeForeground": "#bcb6d8"
     },
     "tokenColors": [
         {
@@ -22,7 +22,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#546E7A"
+                "foreground": "#55525c"
             }
         },
         {
@@ -54,7 +54,8 @@
                 "storage"
             ],
             "settings": {
-                "foreground": "#73db92"
+                "foreground": "#7cb3ab",
+                "fontStyle": "bold"
             }
         },
         {
@@ -65,7 +66,8 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#a1a3ff"
+                "foreground": "#73c3db",
+                "fontStyle": "bold"
             }
         },
         {
@@ -76,7 +78,8 @@
                 "variable.language"
             ],
             "settings": {
-                "foreground": "#e7de8e"
+                "foreground": "#4a89ad",
+                "fontStyle": "bold"
             }
         },
         {
@@ -85,7 +88,8 @@
                 "variable.other"
             ],
             "settings": {
-                "foreground": "#ffe6c1"
+                "foreground": "#bea7d3",
+                "fontStyle": "italic"
             }
         },
         {
@@ -95,7 +99,7 @@
                 "support.variable"
             ],
             "settings": {
-                "foreground": "#f1fdfd"
+                "foreground": "#f7f1fd"
             }
         },
         {
@@ -104,7 +108,7 @@
                 "variable.parameter.import"
             ],
             "settings": {
-                "foreground": "#ffd597"
+                "foreground": "#749e7e"
             }
         },
         {
@@ -117,7 +121,8 @@
                 "keyword.other.special-method"
             ],
             "settings": {
-                "foreground": "#c3e9be"
+                "foreground": "#a2aed1",
+                "fontStyle": "italic"
             }
         },
         {
@@ -129,7 +134,8 @@
                 "support.class"
             ],
             "settings": {
-                "foreground": "#7ed0e9"
+                "foreground": "#96b5ca",
+                "fontStyle": "bold"
             }
         },
         {
@@ -154,28 +160,28 @@
                 "constant"
             ],
             "settings": {
-                "foreground": "#d39ff5"
+                "foreground": "#cf9d9d"
             }
         },
         {
             "name": "Textes",
             "scope": "string",
             "settings": {
-                "foreground": "#ecad90"
+                "foreground": "#bcc99a"
             }
         },
         {
             "name": "Textes: Caractères d’Échappement",
             "scope": "constant.character.escape",
             "settings": {
-                "foreground": "#777777"
+                "foreground": "#8b8f81"
             }
         },
         {
             "name": "Textes: Expressions Régulières",
             "scope": "string.regexp",
             "settings": {
-                "foreground": "#4B83CD"
+                "foreground": "#3c6294"
             }
         }
     ]

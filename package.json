@@ -2,12 +2,12 @@
     "name": "magie",
     "displayName": "Magie",
     "description": "Une série de thèmes simples et jolis.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Enalye",
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/enalye/magie"
+        "url": "https://github.com/enalye/magie-themes"
     },
     "license": "Licence disponible ici <license.txt>",
     "homepage": "https://github.com/enalye/magie-themes",
@@ -25,9 +25,19 @@
                 "path": "./themes/magie-lumineuse.json"
             },
             {
+                "label": "Magie Pluvieuse",
+                "uiTheme": "vs",
+                "path": "./themes/magie-pluvieuse.json"
+            },
+            {
                 "label": "Magie Obscure",
                 "uiTheme": "vs-dark",
                 "path": "./themes/magie-obscure.json"
+            },
+            {
+                "label": "Magie Orageuse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/magie-orageuse.json"
             }
         ]
     },
